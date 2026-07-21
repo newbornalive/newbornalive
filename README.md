@@ -1,55 +1,39 @@
-## Hi there 👋
+# Erica Yang
 
-About Me
+**Data Scientist | Applied Machine Learning | Statistical Modeling | Model Evaluation**
 
-I am a Data Scientist with a PhD in Applied Statistics, specializing in Machine Learning, AI, Financial Modeling, and Business Intelligence. My expertise includes:
+I am a Data Scientist with a Ph.D. in Statistics and experience in applied machine learning, predictive modeling, experimentation, and business analytics. My work focuses on whether models and analytical systems are reliable enough to support real decisions—not only whether they achieve a strong headline metric.
 
-    AI & Machine Learning: Supervised and unsupervised learning, anomaly detection, and NLP.
-    Financial Modeling & Risk Analysis: Credit risk modeling, portfolio optimization, and predictive analytics.
-    Business Intelligence & Data Analytics: KPI dashboards, SQL-based analytics, and data visualization.
-    Healthcare Data Science: AI-driven medical diagnostics and handling missing healthcare data.
-    
-Professional Links                                                                              
-    GitHub: www.github.com/newbornalive    
-    LinkedIn: www.linkedin.com/in/yunyang09       
-    Email: ericayang.work@gmail.com
+I am particularly interested in model validation, probability calibration, threshold selection, stability analysis, subgroup performance, behavioral data, and translating statistical evidence into clear recommendations.
 
+[LinkedIn](https://www.linkedin.com/in/erica-yang-363879b4/) · [Email](mailto:ericayang.work@gmail.com)
 
-  ------------------------------------------------------------------------------------------------------------------------------
-Featured Projects (Details in GitHub Repositories)
+## Core Expertise
 
-AI & Machine Learning
-                        Fraud Detection in Financial Transactions (GitHub Repository)
-                            Techniques: Anomaly Detection (Isolation Forest, Autoencoders), PCA, Python, Scikit-Learn
-                            Application: AI-driven fraud detection, relevant for fintech and banking risk assessment.
-                        
-                        NLP-based Sentiment Analysis for Financial Markets (GitHub Repository)
-                            Techniques: BERT/FinBERT, Vader, Python, Transformers
-                            Application: Quantitative NLP analysis for financial decision-making.
+- **Applied Machine Learning:** XGBoost, Random Forest, Logistic Regression, classification, feature engineering, model validation, SHAP, PyTorch, and transformer-based NLP
+- **Statistical Evaluation:** ROC-AUC, PR-AUC, probability calibration, threshold analysis, simulation-based testing, Kendall-tau stability, bootstrap uncertainty, and subgroup diagnostics
+- **Product and Business Analytics:** A/B testing, KPI development, customer segmentation, conversion, retention, revenue analysis, SQL workflows, and interactive dashboards
+- **Programming and Tools:** Python, SQL, R, SAS, C++, pandas, NumPy, SciPy, scikit-learn, PyTorch, Hugging Face Transformers, Git/GitHub, Tableau, Power BI, and AWS
 
-Business Intelligence & Analytics
-                        Business KPI Dashboard 
-                        
-                            Tools: SQL, Power BI, Tableau, Python Dash (GitHub Repository)
-                            Application: Demonstrates business intelligence and real-time analytics, crucial for 
-                                         data-driven decision-making.
+## Featured Projects
 
-Finance & Investment Analysis
+| Project | Focus | Methods and Tools |
+|---|---|---|
+| [Financial Market Sentiment Analysis](https://github.com/newbornalive/financial-sentiment-analysis) | Reproducible NLP pipeline for extracting and comparing sentiment signals from financial text | FinBERT, VADER, Hugging Face Transformers, PyTorch, Python |
+| [Credit Default Risk Modeling](https://github.com/newbornalive/credit-risk-modeling) | Leakage-controlled credit-risk modeling with calibrated probabilities and cost-sensitive decision thresholds | XGBoost, Random Forest, Logistic Regression, ROC-AUC, PR-AUC, calibration |
+| [Portfolio Optimization and Investment Risk Analysis](https://github.com/newbornalive/portfolio-optimization) | Multi-strategy portfolio construction with out-of-sample evaluation and explicit risk diagnostics | Modern Portfolio Theory, Black-Litterman, covariance shrinkage, walk-forward backtesting, VaR/CVaR |
+| [Customer Revenue and Retention KPI Dashboard](https://github.com/newbornalive/business-kpi-dashboard) | End-to-end business-intelligence workflow for revenue, customer, product, retention, and conversion analysis | SQL, Python, Plotly Dash, Power BI modeling, DAX |
+| [Diabetes Risk Prediction with Machine Learning and Deep Learning](https://github.com/newbornalive/healthcare-ai-prediction) | Healthcare risk-prediction benchmark comparing traditional machine learning with a PyTorch CNN | XGBoost, Random Forest, Logistic Regression, 1D CNN, calibration, SHAP, Integrated Gradients |
 
-                            Credit Risk Modeling 
-                                Techniques: Logistic Regression, XGBoost, AUC-ROC, SMOTE (GitHub Repository)
-                                Application: Essential for financial risk assessment in lending and investment.
-                            
-                            Portfolio Optimization & Investment Risk Analysis (GitHub Repository)
-                                Techniques: Markowitz MPT, Black-Litterman, Pandas, NumPy
-                                Application: Demonstrates quantitative finance modeling and risk mitigation.
+## Current Focus
 
-Healthcare Data Science
+I am continuing to develop production-oriented machine-learning and analytics projects that combine:
 
-                            Diabetes Risk Prediction with Machine Learning and Deep Learning (GitHub Repository)
-                                Techniques: Random Forest, CNNs, XGBoost, SHAP
-                                Application: AI-driven predictive modeling for diabetes diagnosis.
-                            
-                            Missing Data Strategy in Healthcare (GitHub Repository)
-                                Techniques: Bayesian Imputation, MICE, Scikit-Learn
-                                Application: Handling missing data in healthcare datasets, improving data integrity for predictive                                                    modeling.
+- rigorous statistical evaluation;
+- reproducible data and modeling pipelines;
+- business or domain-specific decision logic;
+- clear documentation of assumptions, limitations, and responsible use.
+
+## Professional Interests
+
+Applied machine learning · Predictive modeling · Product analytics · Experimentation · Model reliability · Financial and healthcare analytics · Decision-support systems
