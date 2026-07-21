@@ -46,9 +46,9 @@ Finance & Investment Analysis
 
 Healthcare Data Science
 
-                            Medical Diagnosis Prediction Using Machine Learning (GitHub Repository)
+                            Diabetes Risk Prediction with Machine Learning and Deep Learning (GitHub Repository)
                                 Techniques: Random Forest, CNNs, XGBoost, SHAP
-                                Application: AI-driven predictive modeling for healthcare diagnosis.
+                                Application: AI-driven predictive modeling for diabetes diagnosis.
                             
                             Missing Data Strategy in Healthcare (GitHub Repository)
                                 Techniques: Bayesian Imputation, MICE, Scikit-Learn
