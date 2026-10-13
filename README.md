@@ -6,7 +6,7 @@ I am a Data Scientist with a Ph.D. in Statistics and experience in applied machi
 
 I am particularly interested in model validation, probability calibration, threshold selection, stability analysis, subgroup performance, behavioral data, and translating statistical evidence into clear recommendations.
 
-[LinkedIn](https://www.linkedin.com/in/erica-yang-363879b4/) · [Email](mailto:ericayang.work@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yunyang09//) · [Email](mailto:ericayang.work@gmail.com)
 
 ## Core Expertise
 
