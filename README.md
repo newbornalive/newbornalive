@@ -21,6 +21,13 @@ First-Author Publication — Statistical Methods in Medical Research (2026)
 
 Yang, Y., Lin, X., & Nelson, K. P. (2026). Diagnostic accuracy analysis for multiple raters using probit hierarchical model for ordinal ratings. Statistical Methods in Medical Research, 35(1), 205–221.
 [Read the Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12783370/)
+
+Developed a Bayesian hierarchical probit framework for ordinal diagnostic ratings with latent disease classes and rater-specific effects. Derived closed-form ROC curves and AUCs, including covariate-specific extensions, and evaluated the methods through simulation and mammography data analysis.
+
+## Ongoing Research — Statistical Machine Learning
+
+Developing a rearrangement-based unsupervised learning framework for multi-tensor ordinal data, combining permutation-based alignment, clustering, and theoretical analysis of latent group recovery.
+
 ## Featured Projects
 
 | Project | Focus | Methods and Tools |
