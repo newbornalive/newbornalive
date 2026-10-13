@@ -1,4 +1,4 @@
-# Erica Yang
+# Erica(Yun) Yang
 
 **Data Scientist | Applied Machine Learning | Statistical Modeling | Model Evaluation**
 
