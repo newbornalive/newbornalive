@@ -15,6 +15,12 @@ I am particularly interested in model validation, probability calibration, thres
 - **Product and Business Analytics:** A/B testing, KPI development, customer segmentation, conversion, retention, revenue analysis, SQL workflows, and interactive dashboards
 - **Programming and Tools:** Python, SQL, R, SAS, C++, pandas, NumPy, SciPy, scikit-learn, PyTorch, Hugging Face Transformers, Git/GitHub, Tableau, Power BI, and AWS, CI/CD
 
+## Research & Publication
+
+First-Author Publication — Statistical Methods in Medical Research (2026)
+
+Yang, Y., Lin, X., & Nelson, K. P. (2026). Diagnostic accuracy analysis for multiple raters using probit hierarchical model for ordinal ratings. Statistical Methods in Medical Research, 35(1), 205–221.
+[Read the Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12783370/)
 ## Featured Projects
 
 | Project | Focus | Methods and Tools |
