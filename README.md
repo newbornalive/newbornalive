@@ -6,14 +6,14 @@ I am a Data Scientist with a Ph.D. in Statistics and experience in applied machi
 
 I am particularly interested in model validation, probability calibration, threshold selection, stability analysis, subgroup performance, behavioral data, and translating statistical evidence into clear recommendations.
 
-[LinkedIn](https://www.linkedin.com/in/yunyang09//) · [Email](mailto:ericayang.work@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yunyang09/) · [Email](mailto:ericayang.work@gmail.com)
 
 ## Core Expertise
 
 - **Applied Machine Learning:** XGBoost, Random Forest, Logistic Regression, classification, feature engineering, model validation, SHAP, PyTorch, and transformer-based NLP
 - **Statistical Evaluation:** ROC-AUC, PR-AUC, probability calibration, threshold analysis, simulation-based testing, Kendall-tau stability, bootstrap uncertainty, and subgroup diagnostics
 - **Product and Business Analytics:** A/B testing, KPI development, customer segmentation, conversion, retention, revenue analysis, SQL workflows, and interactive dashboards
-- **Programming and Tools:** Python, SQL, R, SAS, C++, pandas, NumPy, SciPy, scikit-learn, PyTorch, Hugging Face Transformers, Git/GitHub, Tableau, Power BI, and AWS
+- **Programming and Tools:** Python, SQL, R, SAS, C++, pandas, NumPy, SciPy, scikit-learn, PyTorch, Hugging Face Transformers, Git/GitHub, Tableau, Power BI, and AWS, CI/CD
 
 ## Featured Projects
 
