@@ -33,7 +33,6 @@ Developing a rearrangement-based unsupervised learning framework for multi-tenso
 | Project | Focus | Methods and Tools |
 |---|---|---|
  [**LLM-Powered Statistical Analytics Agent (Ongoing)**](https://github.com/newbornalive/llm-analytics-agent) | Developing a GenAI agent for natural-language-to-SQL querying, automated statistical analysis, and reliable business insights. | Python, SQL, LLM APIs, AI Agent Development; planned statistical validation and LLM evaluation benchmarks. |
-
 | [Financial Market Sentiment Analysis](https://github.com/newbornalive/financial-sentiment-analysis) | Reproducible NLP pipeline for extracting and comparing sentiment signals from financial text | FinBERT, VADER, Hugging Face Transformers, PyTorch, Python |
 | [Credit Default Risk Modeling](https://github.com/newbornalive/credit-risk-modeling) | Leakage-controlled credit-risk modeling with calibrated probabilities and cost-sensitive decision thresholds | XGBoost, Random Forest, Logistic Regression, ROC-AUC, PR-AUC, calibration |
 | [Portfolio Optimization and Investment Risk Analysis](https://github.com/newbornalive/portfolio-optimization) | Multi-strategy portfolio construction with out-of-sample evaluation and explicit risk diagnostics | Modern Portfolio Theory, Black-Litterman, covariance shrinkage, walk-forward backtesting, VaR/CVaR |
