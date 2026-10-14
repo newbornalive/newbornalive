@@ -50,4 +50,4 @@ I am continuing to develop production-oriented machine-learning and analytics pr
 
 ## Professional Interests
 
-Applied machine learning · Predictive modeling · Product analytics · Experimentation · Model reliability · Financial and healthcare analytics · Decision-support systems
+Generative AI · Applied machine learning · Predictive modeling · Product analytics · Experimentation · Model reliability · Financial and healthcare analytics · Decision-support systems
