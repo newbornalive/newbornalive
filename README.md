@@ -1,6 +1,6 @@
 # Erica(Yun) Yang
 
-**Data Scientist | Applied Machine Learning | Statistical Modeling | Model Evaluation**
+**Data Scientist | Applied AI & Machine Learning | Statistical Modeling | LLM Evaluation**
 
 I am a Data Scientist with a Ph.D. in Statistics and experience in applied machine learning, predictive modeling, experimentation, and business analytics. My work focuses on whether models and analytical systems are reliable enough to support real decisions—not only whether they achieve a strong headline metric.
 
